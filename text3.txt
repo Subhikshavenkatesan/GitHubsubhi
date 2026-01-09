@@ -1,0 +1,2 @@
+This is the text3.txt file where i have created a new one
+for the texting file ..git 
